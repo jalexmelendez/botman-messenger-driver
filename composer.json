@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-facebook",
+    "name": "jalexmelendez/botman-messenger-driver",
     "license": "MIT",
     "description": "Facebook Messenger driver for BotMan",
     "keywords": [
@@ -9,7 +9,7 @@
         "Facebook",
         "Messenger"
     ],
-    "homepage": "http://github.com/botman/driver-facebook",
+    "homepage": "https://github.com/jalexmelendez/botman-messenger-driver",
     "authors": [
         {
             "name": "Marcel Pociot",
